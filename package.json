@@ -1,5 +1,5 @@
 {
-  "name": "jwt-tutorial",
+  "name": "jwt-project",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
